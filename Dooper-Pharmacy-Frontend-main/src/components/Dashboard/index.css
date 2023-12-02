@@ -1,0 +1,21 @@
+.dashboardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 80vh;
+    background-color: #fff;
+    padding: 15px 60px 15px 60px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dashboard{
+    font-size: 32px;
+    font-weight: 700;
+}
+.availability{
+    font-size: 16px;
+    font-weight: 600;
+}
